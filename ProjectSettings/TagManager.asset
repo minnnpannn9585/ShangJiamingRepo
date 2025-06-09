@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Book
+  - Obstacle
   layers:
   - Default
   - TransparentFX
